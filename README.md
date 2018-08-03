@@ -1,5 +1,5 @@
-# Frontend Boilerplate v2
-Front-end boilerplate v2
+# frontend-boilerplate-bootstarp-4
+frontend-boilerplate-bootstarp-4
 
 ## Contains
 * [Bootstrap 4.1](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
@@ -11,7 +11,7 @@ Front-end boilerplate v2
 
 ## Getting Started
 ```
-$ git clone https://github.com/AsyrafHussin/frontend-boilerplate-v2.git <project-name>
+$ git clone https://github.com/armanfarizul/frontend-boilerplate-bootstarp-4.git <project-name>
 $ cd <project-name>
 $ rm -rf ./.git && rm -rf ./README.md
 $ npm install
